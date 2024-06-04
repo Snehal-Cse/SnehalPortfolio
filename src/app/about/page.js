@@ -10,7 +10,7 @@ export default function About() {
           {/* college */}
           <div className="p-4 flex flex-col w-full sm:w-96 h-72 border-[2px] border-gray-300 rounded-[24px] justify-center text-center items-center bg-white shadow-md">
             <span className="font-bold text-indigo-800 text-[18px]">BMS College Of Engineering-Bengaluru</span>
-            <img className="w-24 h-24 my-2" src="https://www.shutterstock.com/image-vector/graduation-cap-diploma-black-web-800nw-156398897.jpg" alt="Graduation Cap" />
+            <img className="w-24 h-24 my-2" src="https://static.vecteezy.com/system/resources/thumbnails/012/818/553/small_2x/graduation-cap-icon-education-symbol-and-sign-illustration-free-vector.jpg" alt="Graduation Cap" />
             <span className="text-lg font-semibold">Computer Science Engineering (2021-25)</span>
             <span className="font-semibold text-gray-500">CGPA : 8.1</span>
           </div>
